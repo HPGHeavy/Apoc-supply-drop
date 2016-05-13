@@ -1,10 +1,3 @@
-// ******************************************************************************************
-// * This script is licensed under the GNU Lesser GPL v3.
-// ******************************************************************************************
-// Based on the box-filling function from A3Wasteland (AgentRev)
-// Reconfigurated to work for exile and all that jazz - Apoc
-// OK, so hardly any original code left, but still props to 'Rev
-
 
 if (!isServer) exitWith {};
 
