@@ -1,10 +1,3 @@
-// ******************************************************************************************
-// * This script is licensed under the GNU Lesser GPL v3.
-// ******************************************************************************************
-
-//Configuration for Airdrop Assistance
-//Author: Apoc
-// https://github.com/osuapoc
 
 APOC_AA_coolDownTime = 60; //Expressed in sec
 
