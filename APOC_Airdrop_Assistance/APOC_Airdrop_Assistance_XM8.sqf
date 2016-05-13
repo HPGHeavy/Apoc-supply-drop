@@ -1,21 +1,3 @@
-//NEW
-/*
-BASE script made by Shix http://www.exilemod.com/profile/4566-shix/
-this is just the base for any project so scripters do not have to figure out how to hide controlls and figure out a go back solution
-Made for XM8 Apps http://www.exilemod.com/topic/9040-updated-xm8-apps/
-I would strongly suggest reading these 2 BIS WIKI articles if you have never done anything like this before
-https://community.bistudio.com/wiki/ctrlCreate
-https://community.bistudio.com/wiki/ctrlSetPosition
-*/
-
-// ******************************************************************************************
-// * This script is licensed under the GNU Lesser GPL v3.
-// ******************************************************************************************
-// Apoc's Airdrop Assistance
-// https://github.com/osuapoc
-// Basic Framework for the XM8 app by Shix (http://www.exilemod.com/topic/9040-xm8-apps/), all credit for that work is to his greatness
-// GNU Licensing required for my portions to comply with borrowed function from A3Wasteland
-
 
 disableSerialization;
 scriptName "APOC_Airdrop_Assistance_XM8";
