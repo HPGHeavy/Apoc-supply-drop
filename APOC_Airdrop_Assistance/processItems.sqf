@@ -1,11 +1,3 @@
-// ******************************************************************************************
-// * This script is licensed under the GNU Lesser GPL v3. Copyright © 2016 A3Wasteland.com *
-// ******************************************************************************************
-//	@file Version: 1.1
-//	@file Name: processItems.sqf
-//	@file Author: AgentRev
-//	@file Created: 27/12/2013 23:02
-// Updated 25/4/2015 - Apoc - Backpacks added
 
 private ["_vehicle", "_items", "_type", "_class", "_quantity", "_magsQty", "_i", "_randomClass", "_mag"];
 
