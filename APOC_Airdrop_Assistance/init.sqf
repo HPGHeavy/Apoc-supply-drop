@@ -1,11 +1,4 @@
-// ******************************************************************************************
-// * This script is licensed under the GNU Lesser GPL v3.
-// ******************************************************************************************
-// Apoc's Airdrop Assistance
-// https://github.com/osuapoc
-//Init for Airdrop Assistance
-//Author: Apoc
-//
+
 #include "config.sqf"
 
 if (isServer) then {
